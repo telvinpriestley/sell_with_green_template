@@ -1,0 +1,9 @@
+.carousel-item {
+    height: 400px; /* set the desired height here */
+    object-fit: cover; /* this will ensure the images are properly cropped */
+  }
+  
+  .carousel-item img {
+    width: 100%;
+    height: 100%;
+  }
